@@ -1,4 +1,5 @@
 # Site
+remote_theme :      TaylanTatli/Moon
 title:              Moon
 bio:                'Minimal, one column jekyll theme.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
@@ -8,7 +9,8 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                "https://youngnohgoh.github.io"
+baseurl:            ""
 
 # Jekyll
 permalink:          /:title/
@@ -38,13 +40,12 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+#twitter:            username
+facebook:           https://www.facebook.com/Youngnoh.Goh
+github-url:         https://github.com/YoungnohGoh
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-instagram:          username
+linkedin:           https://www.linkedin.com/in/youngnohgoh/
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
